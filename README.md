@@ -1,11 +1,8 @@
 # NodeJS Twitter Bot (Twibby)
----
 
 ## Project Details
 This is a project where I will learn to work with the Twitter API and create bots that will accomplish minor small tasks.
 Feel free to follow this project to see my progress and feel free to fork or grab little bits of the code!
-
----
 
 ## Using Twibby
 If you would like your own version of Twibby:
