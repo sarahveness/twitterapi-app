@@ -9,8 +9,7 @@ If you would like your own version of Twibby:
 
 1. `Fork or Clone the repo`
 2. [Create New App](https://apps.twitter.com/) via Twitter API
-3. `npm install twitter`
-4. `npm init`
-5. Create your own `config.js`
-6. `node app.js` or whatever you've set as your entry point
-7. Have fun && Keep building!
+3. `npm install`
+4. Create your own `config.js`
+5. `node app.js` or whatever you've set as your entry point
+6. Have fun && Keep building!
