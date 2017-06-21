@@ -7,9 +7,9 @@ Feel free to follow this project to see my progress and feel free to fork or gra
 ## Using Twibby
 If you would like your own version of Twibby:
 
-1. `Fork or Clone the repo`
-2. [Create New App](https://apps.twitter.com/) via Twitter API
+1. Fork or Clone the repo
+2. [Create New App Application](https://apps.twitter.com/) via Twitter API
 3. `npm install`
-4. Create your own `config.js`
-5. `node app.js` or whatever you've set as your entry point
+4. Create your own `config.js` using `sample.config.js` as a reference [just rename to `config.js`]
+5. `node [FILENAME]`
 6. Have fun && Keep building!
